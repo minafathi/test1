@@ -12,7 +12,7 @@ defined('_JEXEC') or die('Restricted access');
 
 /**
  * Hello World Component Controller
- *
+ *س
  * @since  0.0.1
  */
 class Khatoghalam_RacingController extends JControllerLegacy
